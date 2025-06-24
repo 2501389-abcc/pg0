@@ -1,0 +1,23 @@
+.home-nav{
+    background-color:blueviolet;
+    color: blue;
+    padding: 10px;
+    width: 100%;
+}
+.home-nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.home-nav a{
+    color: bisque;
+    text-decoration: none;
+    padding: 10px;
+}
+.home-nav a:hover{
+    background-color: blue;
+}
+body{
+    margin: 0;
+}
