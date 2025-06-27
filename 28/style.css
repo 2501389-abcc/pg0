@@ -19,5 +19,41 @@
     background-color: blue;
 }
 body{
-    margin: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+.content{
+display: grid;
+place-items: center;
+}
+.home-nav{
+    display: grid;
+    place-items: center;
+}
+.vaundy iframe {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.anime{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.syumi{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}.amami{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.vaundy{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    
 }
